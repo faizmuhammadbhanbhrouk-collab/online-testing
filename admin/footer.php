@@ -1,0 +1,1 @@
+</main><footer class="foot"><div class="wrap"><p class="muted">Admin only. Demo items are labelled DEMO — delete or edit them here.</p></div></footer><script src="../assets/js/app.js"></script></body></html>
